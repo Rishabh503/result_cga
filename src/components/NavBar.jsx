@@ -7,14 +7,14 @@ export const NavBar = () => {
         <div className='w-3/5 h-full mt-4 p-3 content-center '>
         <p className='font-bold  text-[5vw]'>
           THE <br /> 
-          <p className='text-[6vw]'>CHANAKAYA GURU ACADEMY</p>
+          CHANAKAYA GURU ACADEMY
         </p>
         <p className='text-[#B0BEC5] text-[4vw] font-bold'>
           Knowledge is Priority
         </p>
         </div>
-        <div className='w-2/5 h-full mt-4 m:p-10 content-center p-2'>
-        <img src="cga_logo.png" alt="" />
+            <div className='w-2/5 h-full mt-4 m:p-10 content-center p-2'>
+             <img src="cga_logo.png" alt="" />
         </div>
       </div>
     </div>

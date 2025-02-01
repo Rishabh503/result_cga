@@ -1,16 +1,16 @@
 import React from 'react'
+import { NavLink } from 'react-router-dom';
 
 export const Result = () => {
   const Data = [
-    { className: "Class 6", link: "link of class 6" },
-    { className: "Class 7", link: "link of class 7" },
-    { className: "Class 8", link: "link of class 8" },
-    { className: "Class 9", link: "link of class 9" },
-    { className: "Class 10", link: "link of class 10" },
-    { className: "Class 11", link: "link of class 11" },
-    { className: "Class 12", link: "link of class 12" },
-    { className: "Class 12", link: "link of class 12" },
-    { className: "Class 12", link: "link of class 12" },
+    { Name: "Class 6", link: "/result/linkClass6"  , value:"Result" },
+    { Name: "Class 7", link: "/result/linkClass7" , value:"Result" },
+    { Name: "Class 8", link: "/result/linkClass8" , value:"Result" },
+    { Name: "Class 9", link: "/result/linkClass9" , value:"Result" },
+    { Name: "Class 10", link: "/result/linkClass10" , value:"Result" },
+    { Name: "Class 11", link: "/result/linkClass11" , value:"Result" },
+    { Name: "Class 12", link: "/result/linkClass12" , value:"Result" },
+   
   ];
   
   
@@ -25,10 +25,12 @@ export const Result = () => {
             Data.map((data)=>(
               <div className='flex text-[#000000] text-lg font-semibold justify-between  px-8 p-3 rounded-2xl bg-[#bd4c13]  '>
                   <p>
-                    {data.className}
+                    {data.Name}
                   </p>
                   <p>
-                    {data.link}
+                    <NavLink to={data.link}>
+                    {data.value}
+                    </NavLink>
                   </p>
               </div>
             ))
