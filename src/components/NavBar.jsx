@@ -28,7 +28,7 @@ export const NavBar = () => {
           Knowledge is Priority
         </p>
         </div>
-            <div className='sm:w-2/5 mt-4 sm:p-4 sm:mr-12 content-center p-12'>
+            <div className='sm:w-2/5 mt-4 sm:p-8 sm:mr-12 content-center p-12'>
              <img src="cga_logo.png" alt="" />
         </div>
       </div>
@@ -42,11 +42,11 @@ export const NavBar = () => {
         </p>
       </div>
       {/* faculties */}
-      <div className='flex flex-col gap-4 p-4  sm:p-7 ' >
+      <div className='flex flex-col content-center justify-between text-start  gap-4 p-4  sm:p-7 ' >
        <h1 className='font-bold text-[4vw]  '>
        Faculties
        </h1>
-       <div className='flex sm:flex-row flex-col gap-5  flex-wrap '>
+       <div className='flex sm:flex-row flex-col items-center justify-center gap-5  flex-wrap '>
         {
           facultyData.map((faculty,index)=>(
             <div key={index}  >
@@ -57,7 +57,7 @@ export const NavBar = () => {
        </div>
        <div className='text-end'>
        <NavLink to='/faculties'>
-          <button className=''  >
+          <button className='sm:px-8 p:6 mx-8  sm:mr-16 bg-blue-400 rounded-lg'  >
               See All
           </button>
         </NavLink>

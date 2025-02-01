@@ -2,25 +2,26 @@
     {
       "name": "Vishnu Pandey",
       "image": "chacha.jpg",
-      "degree": "Ph.D. in Mathematics",
-      "detail": "Expert in Algebra, Calculus, and Number Theory with 15+ years of teaching experience."
+      "degree": "BBA, MBA, B'ED, PGDM",
+      "detail": "HOD English & Business Studies. With a rich background in management, he has been leading the department with a vision to integrate business studies with effective communication skills. He is known for his strategic approach towards student development and academic excellence."
     },
     {
       "name": "Ashwani Dhatwalia",
       "image": "ashwani.jpg",
-      "degree": "M.Sc. in Physics",
-      "detail": "Specialist in Quantum Mechanics and Electromagnetism, passionate about research in theoretical physics."
+      "degree": "ME(EE), MBA",
+      "detail": "HOD PHYSICS. Having an extensive academic journey in Electrical Engineering and Business Administration, he brings a unique perspective to teaching physics with a practical approach. His leadership in the department has contributed to innovative teaching methods and research excellence."
     },
     {
       "name": "Pradeep Mishra",
       "image": "pradeep.jpg",
-      "degree": "M.Tech in Electronics",
-      "detail": "Expert in circuit design, embedded systems, and robotics."
+      "degree": "B.Sc(MATH), M.Sc(MATHS)",
+      "detail": "HOD OF MATHEMATICS. With a profound understanding of mathematics, he excels at simplifying complex theories for students. Under his guidance, the department has achieved remarkable success in competitive exams and research projects."
     },
     {
       "name": "Saket",
       "image": "saket.jpg",
-      "degree": "M.Tech in Computer Science",
-      "detail": "Software engineer and AI researcher, skilled in machine learning, data structures, and algorithms."
+      "degree": "BA(ECONOMICS), MA(ECONOMICS), BSc",
+      "detail": "HOD OF ECONOMICS. His expertise in economic theory and its real-world applications makes him a valuable asset to the department. He is deeply committed to preparing students for the evolving global economic challenges through dynamic teaching methods and case studies."
     }
-]
+  ]
+  

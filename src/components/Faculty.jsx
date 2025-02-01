@@ -8,13 +8,13 @@ export const Faculty = () => {
         setFaculties(facultyData)
       },[])
   return (
-    <div className='flex flex-col items-center justify-center'>
+    <div className='flex flex-col items-center gap-6 justify-center'>
       <div>
         <img src="allFaculty.jpg" className='rounded-2xl' alt="" />
       </div>
 
 
-    <div className='flex sm:flex-row flex-col item-center justify-between flex-wrap col-span-2'>
+    <div className='flex sm:flex-row flex-col  gap-8 item-center justify-center flex-wrap col-span-2'>
         {
           facultyData.map((faculty,index)=>(
             <div key={index}>

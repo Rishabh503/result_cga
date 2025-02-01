@@ -1,64 +1,62 @@
 [
-    {
-      "name": "Vishnu Pandey",
-      "image": "chacha.jpg",
-      "degree": "Ph.D. in Mathematics",
-      "detail": "Expert in Algebra, Calculus, and Number Theory with 15+ years of teaching experience."
-    },
-    {
-      "name": "Ashwani Dhatwalia",
-      "image": "ashwani.jpg",
-      "degree": "M.Sc. in Physics",
-      "detail": "Specialist in Quantum Mechanics and Electromagnetism, passionate about research in theoretical physics."
-    },
-    {
-      "name": "Pradeep Mishra",
-      "image": "pradeep.jpg",
-      "degree": "M.Tech in Electronics",
-      "detail": "Expert in circuit design, embedded systems, and robotics."
-    },
-    {
-      "name": "Saket",
-      "image": "saket.jpg",
-      "degree": "M.Tech in Computer Science",
-      "detail": "Software engineer and AI researcher, skilled in machine learning, data structures, and algorithms."
-    },
-    {
-      "name": "Vikalp",
-      "image": "vikalp.jpg",
-      "degree": "M.A. in English Literature",
-      "detail": "Enthusiastic about literature, linguistics, and creative writing, with a decade of teaching experience."
-    },
-    {
-      "name": "Ravi",
-      "image": "ravi.jpg",
-      "degree": "Ph.D. in Chemistry",
-      "detail": "Passionate about organic chemistry, spectroscopy, and environmental science."
-    },
-    {
-      "name": "Om Prakash",
-      "image": "op.jpg",
-      "degree": "M.Ed. in Educational Psychology",
-      "detail": "Dedicated to student development, pedagogy, and effective learning strategies."
-    },
-    {
-      "name": "Zafar",
-      "image": "zafar.jpg",
-      "degree": "M.Sc. in Biology",
-      "detail": "Researcher in genetics and biotechnology, known for interactive teaching methods."
-    },
-    {
-      "name": "Sohail Ahmed",
-      "image": "sohail.jpg",
-      "degree": "M.Com in Finance",
-      "detail": "Expert in financial management, accounting, and corporate finance."
-    },
-    {
-      "name": "Pushpendra ",
-      "image": "pushpendra.jpg",
-      "degree": "M.A. in History",
-      "detail": "Specialist in ancient civilizations, world history, and cultural studies."
-    }
-   
-  ]
-  
+  {
+    "name": "Vishnu Pandey",
+    "image": "chacha.jpg",
+    "degree": "BBA, MBA, B'ED, PGDM",
+    "detail": "HOD English & Business Studies. With expertise in management and education, he blends business strategies with communication skills to foster academic excellence."
+  },
+  {
+    "name": "Ashwani Dhatwalia",
+    "image": "ashwani.jpg",
+    "degree": "ME(EE), MBA",
+    "detail": "HOD PHYSICS. Combining engineering and physics with business insights, he leads the department to implement innovative teaching methods and practical applications in physics."
+  },
+  {
+    "name": "Pradeep Mishra",
+    "image": "pradeep.jpg",
+    "degree": "B.Sc(MATH), M.Sc(MATHS)",
+    "detail": "HOD OF MATHEMATICS. A strong advocate for practical and theory-based learning, he inspires students to excel in competitive exams and encourages research in mathematical fields."
+  },
+  {
+    "name": "Saket",
+    "image": "saket.jpg",
+    "degree": "BA(ECONOMICS), MA(ECONOMICS), BSc",
+    "detail": "HOD OF ECONOMICS. With a deep understanding of economic theory and real-world applications, he empowers students to explore and analyze global economic trends."
+  },
+  {
+    "name": "Vikalp",
+    "image": "vikalp.jpg",
+    "degree": "B.Sc(PHYSICS), M.Sc(PHYSICS)",
+    "detail": "HOD TGT AND SCIENCE. With a passion for physics, he inspires students to explore the wonders of science, fostering an environment of discovery and innovation."
+  },
+  {
+    "name": "Ravi",
+    "image": "ravi.jpg",
+    "degree": "M.Sc, B.Sc",
+    "detail": "HOD OF BIOLOGY. Specializing in biological sciences, he integrates theoretical knowledge with practical experiences, inspiring students to pursue research and careers in biology."
+  },
+  {
+    "name": "Om Prakash",
+    "image": "op.jpg",
+    "degree": "B.Com, M.Com, B.Ed",
+    "detail": "HOD PRT. Focused on primary education, he integrates business studies with pedagogy, ensuring students gain both academic knowledge and life skills."
+  },
+  {
+    "name": "Zafar",
+    "image": "zafar.jpg",
+    "degree": "BA(POL.SCI(H)), MA(POL.SCI(H)), B.Ed",
+    "detail": "HOD OF HUMANITIES. With a deep knowledge of political science and humanities, he inspires students to engage with social and political issues critically."
+  },
+  {
+    "name": "Sohail Ahmed",
+    "image": "sohail.jpg",
+    "degree": "B.Sc(CHEMISTRY), M.Sc(CHEMISTRY)",
+    "detail": "HOD CHEMISTRY. Passionate about chemistry, he brings hands-on learning into the classroom, focusing on both theoretical and experimental aspects of the subject."
+  },
+  {
+    "name": "Pushpendra",
+    "image": "pushpendra.jpg",
+    "degree": "M.A. in History, B.Com, CMA(1), CA(ATC), B.Ed",
+    "detail": "A history expert with professional credentials in accounting, he brings a unique perspective to teaching history, connecting past events with financial and economic growth."
+  }
+]
