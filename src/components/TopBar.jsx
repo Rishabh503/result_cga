@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom'
 export const TopBar = () => {
   return (
     <div className=' w-full h-[15vw] '>
-       <div className=' flex justify-between p-4 '>
+       <div className=' flex justify-between p-4 sm:p-8 '>
        <div className='h-full sm:w-[8vw] w-[12vw]'>
             <img src="cga_logo.png"  alt="" />
         </div>
@@ -12,10 +12,10 @@ export const TopBar = () => {
             <NavLink to='/result'>
                 Results
             </NavLink>
-            <NavLink>
+            <NavLink to='/'>
                 Toppers
             </NavLink>
-            <NavLink>
+            <NavLink to='/'>
                 Courses
             </NavLink>
         </div>
