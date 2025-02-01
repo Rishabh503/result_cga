@@ -16,14 +16,14 @@ export const Result = () => {
   
 
   return (
-    <div className='w-screen h-auto flex flex-col m items-center'>
-     <p className='font-extrabold text-center sm:-mt-24 text-[#fa2b2b] text-4xl underline p-2 font-mono'>
+    <div className='w-screen h-auto flex flex-col gap-2 m items-center'>
+     <p className='font-extrabold text-center sm:-mt-24  md:-mt-2 text-[#fa2b2b] text-4xl underline p-2 font-mono'>
         🏆 RESULTS 🏆
      </p>
-        <div className='h-auto flex w-screen p-1 flex-col gap-4'>
+        <div className='h-auto flex w-screen p-1  flex-col gap-4'>
           {
             Data.map((data)=>(
-              <div className='flex text-[#000000] text-lg font-semibold justify-between  px-8 p-4 rounded-2xl bg-[#bd4c13]  '>
+              <div className='flex text-[#000000] text-lg font-semibold justify-between  px-8 p-3 rounded-2xl bg-[#bd4c13]  '>
                   <p>
                     {data.className}
                   </p>
