@@ -6,10 +6,12 @@ import { Outlet } from 'react-router-dom'
 import { NavBar } from './components/NavBar'
 import { Result } from './components/Result'
 import Footer from './components/Footer'
+import { TopBar } from './components/TopBar'
 
 function App() {
 
   return <>
+  <TopBar/>
   <NavBar/>
   <Outlet/>
 
