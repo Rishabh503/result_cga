@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Vishnu Pandey",
+      "image": "chacha.jpg",
+      "degree": "Ph.D. in Mathematics",
+      "detail": "Expert in Algebra, Calculus, and Number Theory with 15+ years of teaching experience."
+    },
+    {
+      "name": "Ashwani Dhatwalia",
+      "image": "ashwani.jpg",
+      "degree": "M.Sc. in Physics",
+      "detail": "Specialist in Quantum Mechanics and Electromagnetism, passionate about research in theoretical physics."
+    },
+    {
+      "name": "Pradeep Mishra",
+      "image": "pradeep.jpg",
+      "degree": "M.Tech in Electronics",
+      "detail": "Expert in circuit design, embedded systems, and robotics."
+    },
+    {
+      "name": "Saket",
+      "image": "saket.jpg",
+      "degree": "M.Tech in Computer Science",
+      "detail": "Software engineer and AI researcher, skilled in machine learning, data structures, and algorithms."
+    }
+]

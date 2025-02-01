@@ -1,0 +1,64 @@
+[
+    {
+      "name": "Vishnu Pandey",
+      "image": "chacha.jpg",
+      "degree": "Ph.D. in Mathematics",
+      "detail": "Expert in Algebra, Calculus, and Number Theory with 15+ years of teaching experience."
+    },
+    {
+      "name": "Ashwani Dhatwalia",
+      "image": "ashwani.jpg",
+      "degree": "M.Sc. in Physics",
+      "detail": "Specialist in Quantum Mechanics and Electromagnetism, passionate about research in theoretical physics."
+    },
+    {
+      "name": "Pradeep Mishra",
+      "image": "pradeep.jpg",
+      "degree": "M.Tech in Electronics",
+      "detail": "Expert in circuit design, embedded systems, and robotics."
+    },
+    {
+      "name": "Saket",
+      "image": "saket.jpg",
+      "degree": "M.Tech in Computer Science",
+      "detail": "Software engineer and AI researcher, skilled in machine learning, data structures, and algorithms."
+    },
+    {
+      "name": "Vikalp",
+      "image": "vikalp.jpg",
+      "degree": "M.A. in English Literature",
+      "detail": "Enthusiastic about literature, linguistics, and creative writing, with a decade of teaching experience."
+    },
+    {
+      "name": "Ravi",
+      "image": "ravi.jpg",
+      "degree": "Ph.D. in Chemistry",
+      "detail": "Passionate about organic chemistry, spectroscopy, and environmental science."
+    },
+    {
+      "name": "Om Prakash",
+      "image": "op.jpg",
+      "degree": "M.Ed. in Educational Psychology",
+      "detail": "Dedicated to student development, pedagogy, and effective learning strategies."
+    },
+    {
+      "name": "Zafar",
+      "image": "zafar.jpg",
+      "degree": "M.Sc. in Biology",
+      "detail": "Researcher in genetics and biotechnology, known for interactive teaching methods."
+    },
+    {
+      "name": "Sohail Ahmed",
+      "image": "sohail.jpg",
+      "degree": "M.Com in Finance",
+      "detail": "Expert in financial management, accounting, and corporate finance."
+    },
+    {
+      "name": "Pushpendra ",
+      "image": "pushpendra.jpg",
+      "degree": "M.A. in History",
+      "detail": "Specialist in ancient civilizations, world history, and cultural studies."
+    }
+   
+  ]
+  

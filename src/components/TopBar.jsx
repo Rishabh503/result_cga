@@ -9,14 +9,19 @@ export const TopBar = () => {
             <img src="cga_logo.png"  alt="" />
         </div>
         <div className='p-2 flex gap-4 sm:text-[2vw]'>
-            <NavLink to='/result'>
-                Results
+        <NavLink to='/'>
+                Home
             </NavLink>
+            
             <NavLink to='/'>
                 Toppers
             </NavLink>
-            <NavLink to='/'>
-                Courses
+            
+            <NavLink to='/faculties'>
+                Faculty
+            </NavLink>
+            <NavLink to='/result'>
+                Results
             </NavLink>
         </div>
        </div>
