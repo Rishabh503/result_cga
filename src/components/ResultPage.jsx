@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom';
 
-export const Result = () => {
+export const ResultPage = () => {
   const Data = [
     { Name: "Class 6", link: "/result/linkClass6"  , value:"Result" },
     { Name: "Class 7", link: "/result/linkClass7" , value:"Result" },
@@ -12,7 +12,12 @@ export const Result = () => {
     { Name: "Class 12", link: "/result/linkClass12" , value:"Result" },
    
   ];
+  const Data2=[
+    {name:"Academice Results",link:"/result/academic",value:"Result"}
+  ]
   
+  
+
   return (
     <div className='w-screen h-auto flex flex-col gap-2 m items-center'>
      <p className='font-extrabold text-center sm:-mt-24  md:-mt-2 text-rose-700 text-4xl  p-2 font-mono'>
@@ -20,10 +25,10 @@ export const Result = () => {
      </p>
         <div className='h-auto flex w-screen p-1 px-10 sm:px-32 flex-col gap-4'>
           {
-            Data.map((data)=>(
+            Data2.map((data)=>(
               <div className=' text-[#000000] shadow-lg text-lg font-semibold  px-8 p-4 rounded-2xl bg-[#ffffff] border border-t-black  '>
                   <p className='font-bold'>
-                    {data.Name}
+                    {data.name}
                   </p>
                   <div className='flex justify-between items-center'>
                     <p >

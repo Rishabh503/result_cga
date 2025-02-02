@@ -13,12 +13,14 @@ import { Contact } from './components/Contact.jsx'
 
 
 import class6 from "./data/topper.json"
+import { ResultPage } from './components/ResultPage.jsx'
 
 const router=createBrowserRouter(
   createRoutesFromElements(
     <Route path='/' element ={<App/>}>
     <Route path='' element ={<Home/>}/>
-    <Route path='/result' element ={<Result/>}/>
+    <Route path='/result' element ={<ResultPage/>}/>
+    <Route path='/result/academic' element ={<Result/>}/>
     <Route path='/faculties' element ={<Faculty/>}/>
     <Route path='/toppers' element ={<Topper/>}/>
     <Route path='/contact' element ={<Contact/>}/>
