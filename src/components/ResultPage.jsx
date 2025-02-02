@@ -13,13 +13,15 @@ export const ResultPage = () => {
    
   ];
   const Data2=[
-    {name:"Academice Results",link:"/result/academic",value:"Result"}
+    {name:"Academice Feb-25",link:"/result/academic",value:"Result"},
+    {name:"Scholarship ",link:"/result/scholarship",value:"Result"},
+    {name:"Boards ",link:"/result/boards",value:"Result"},
   ]
   
   
 
   return (
-    <div className='w-screen h-auto flex flex-col gap-2 m items-center'>
+    <div className='w-screen h-auto min-h-screen flex flex-col gap-2 m items-center'>
      <p className='font-extrabold text-center sm:-mt-24  md:-mt-2 text-rose-700 text-4xl  p-2 font-mono'>
          <span className='underline'>Results</span> 
      </p>

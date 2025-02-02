@@ -13,6 +13,7 @@ export const Result = () => {
    
   ];
   
+  ///jab me academic ke bd kuch add kruga to ye upar ke link update hoge make them /result/academic
   return (
     <div className='w-screen h-auto flex flex-col gap-2 m items-center'>
      <p className='font-extrabold text-center sm:-mt-24  md:-mt-2 text-rose-700 text-4xl  p-2 font-mono'>

@@ -11,9 +11,9 @@ import { Faculty } from './components/Faculty.jsx'
 import { Topper } from './components/Topper.jsx'
 import { Contact } from './components/Contact.jsx'
 
-
-import class6 from "./data/topper.json"
 import { ResultPage } from './components/ResultPage.jsx'
+import { ResultDemo } from './components/ResultDemo.jsx'
+import class6 from "./data/topper.json"
 
 const router=createBrowserRouter(
   createRoutesFromElements(
@@ -21,6 +21,8 @@ const router=createBrowserRouter(
     <Route path='' element ={<Home/>}/>
     <Route path='/result' element ={<ResultPage/>}/>
     <Route path='/result/academic' element ={<Result/>}/>
+    <Route path='/result/boards' element ={<ResultDemo/>}/>
+    <Route path='/result/scholarship' element ={<ResultDemo/>}/>
     <Route path='/faculties' element ={<Faculty/>}/>
     <Route path='/toppers' element ={<Topper/>}/>
     <Route path='/contact' element ={<Contact/>}/>

@@ -61,7 +61,7 @@ export const Home = () => {
        </div>
        <div className='text-end'>
        <NavLink to='/faculties'>
-          <button className='sm:px-8 px-6 mx-8  sm:mr-16 bg-blue-400 rounded-lg'  >
+          <button className='sm:px-8 px-6 mx-8  sm:mr-16 bg-gray-50 shadow-sm rounded-lg'  >
               See All
           </button>
         </NavLink>
@@ -84,7 +84,7 @@ export const Home = () => {
        </div>
        <div className='text-end'>
        <NavLink to='/toppers'>
-          <button className='sm:px-8 px-6 mx-8  sm:mr-16 bg-blue-400 rounded-lg'  >
+          <button className='sm:px-8 px-6 mx-8  sm:mr-16 bg-gray-50 shadow-sm rounded-lg'  >
               See All
           </button>
         </NavLink>
