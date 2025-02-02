@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react'
 import { NavLink } from 'react-router-dom'
-import { ProfileCard } from './ProfileCard'
 import facultyData from "../data/facultyOnFront.json"
 import topperData from "../data/topperOnFront.json"
-import { TopperCard } from './TopperCard'
+import { ProfileCard } from './faculty/FacultyCard'
+import { TopperCard } from './topper/TopperCard'
 
 
 export const Home = () => {

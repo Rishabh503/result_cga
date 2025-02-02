@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import { ProfileCard } from './ProfileCard'
-import facultyData from "../data/faculty.json"
+import facultyData from "../../data/faculty.json"
+import { ProfileCard } from './FacultyCard'
 
 export const Faculty = () => {
     const [faculties,setFaculties]=useState([])

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import topperData from "../data/topper.json"
+import topperData from "../../data/topper.json"
 import { TopperCard } from './TopperCard'
 export const Topper = () => {
     const [topper,setTopper]=useState([])

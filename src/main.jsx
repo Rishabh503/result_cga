@@ -1,18 +1,17 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import './index.css'
+import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from 'react-router-dom'
 import App from './App.jsx'
-import {createBrowserRouter, createRoutesFromElements, Route ,RouterProvider} from 'react-router-dom'
-import Footer from './components/Footer.jsx'
-import { ResultDashBoard } from './components/ResultDashBoard.jsx'
-import { Result } from './components/Result.jsx'
-import { Home } from './components/NavBar.jsx'
-import { Faculty } from './components/Faculty.jsx'
-import { Topper } from './components/Topper.jsx'
-import { Contact } from './components/Contact.jsx'
+import { Contact } from './components/contact/Contact.jsx'
+import { Faculty } from './components/faculty/Faculty.jsx'
+import { Home } from './components/Hero.jsx'
+import { Result } from './components/result/Result.jsx'
+import { ResultDashBoard } from './components/result/ResultDashBoard.jsx'
+import { Topper } from './components/topper/Topper.jsx'
+import './index.css'
 
-import { ResultPage } from './components/ResultPage.jsx'
-import { ResultDemo } from './components/ResultDemo.jsx'
+import { ResultDemo } from './components/result/ResultDemo.jsx'
+import { ResultPage } from './components/result/ResultPage.jsx'
 import class6 from "./data/topper.json"
 
 const router=createBrowserRouter(
