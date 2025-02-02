@@ -31,7 +31,7 @@ export const Contact = () => {
               alert('Failed to send email.');
             }
           );
-
+          setFormData({...formData,[e.target.name]:""})
           console.log("kuch to hua")
 
     }

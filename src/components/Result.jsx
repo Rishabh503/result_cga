@@ -17,21 +17,26 @@ export const Result = () => {
 
   return (
     <div className='w-screen h-auto flex flex-col gap-2 m items-center'>
-     <p className='font-extrabold text-center sm:-mt-24  md:-mt-2 text-[#fa2b2b] text-4xl  p-2 font-mono'>
-        🏆 <span className='underline'>Results</span> 🏆
+     <p className='font-extrabold text-center sm:-mt-24  md:-mt-2 text-rose-700 text-4xl  p-2 font-mono'>
+         <span className='underline'>Results</span> 
      </p>
-        <div className='h-auto flex w-screen p-1  flex-col gap-4'>
+        <div className='h-auto flex w-screen p-1 px-10 sm:px-32 flex-col gap-4'>
           {
             Data.map((data)=>(
-              <div className='flex text-[#000000] shadow-lg text-lg font-semibold justify-between  px-8 p-3 rounded-2xl bg-[#ffffff] border border-t-black  '>
-                  <p>
+              <div className=' text-[#000000] shadow-lg text-lg font-semibold  px-8 p-4 rounded-2xl bg-[#ffffff] border border-t-black  '>
+                  <p className='font-bold'>
                     {data.Name}
                   </p>
-                  <p>
+                  <div className='flex justify-between items-center'>
+                    <p >
+                      Check Now
+                    </p>
+                  <p className='px-4 p-2 rounded-lg bg-rose-600'>
                     <NavLink to={data.link}>
                     {data.value}
                     </NavLink>
                   </p>
+                  </div>
               </div>
             ))
           }

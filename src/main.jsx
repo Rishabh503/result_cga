@@ -12,6 +12,8 @@ import { Topper } from './components/Topper.jsx'
 import { Contact } from './components/Contact.jsx'
 
 
+import class6 from "./data/topper.json"
+
 const router=createBrowserRouter(
   createRoutesFromElements(
     <Route path='/' element ={<App/>}>
@@ -21,13 +23,13 @@ const router=createBrowserRouter(
     <Route path='/toppers' element ={<Topper/>}/>
     <Route path='/contact' element ={<Contact/>}/>
     
-    <Route path='/result/linkClass6' element ={<ResultDashBoard value={"class 6"}/>}/>
-    <Route path='/result/linkClass7' element ={<ResultDashBoard value={"class 7"}/>}/>
-    <Route path='/result/linkClass8' element ={<ResultDashBoard value={"class 8"}/>}/>
-    <Route path='/result/linkClass9' element ={<ResultDashBoard value={"class 9"}/>}/>
-    <Route path='/result/linkClass10' element ={<ResultDashBoard value={"class 10"}/>}/>
-    <Route path='/result/linkClass11' element ={<ResultDashBoard value={"class 11"}/>}/>
-    <Route path='/result/linkClass12' element ={<ResultDashBoard value={"class 12"}/>}/>
+    <Route path='/result/linkClass6' element ={<ResultDashBoard value={class6}/>}/>
+    <Route path='/result/linkClass7' element ={<ResultDashBoard value={class6}/>}/>
+    <Route path='/result/linkClass8' element ={<ResultDashBoard value={class6}/>}/>
+    <Route path='/result/linkClass9' element ={<ResultDashBoard value={class6}/>}/>
+    <Route path='/result/linkClass10' element ={<ResultDashBoard value={class6}/>}/>
+    <Route path='/result/linkClass11' element ={<ResultDashBoard value={class6}/>}/>
+    <Route path='/result/linkClass12' element ={<ResultDashBoard value={class6}/>}/>
 
     </Route>
   )
