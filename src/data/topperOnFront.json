@@ -1,7 +1,7 @@
 [
     {
         "name": "Topper 1",
-        "image": "topper1.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "98",
         "subject2": "Subject2",
@@ -11,7 +11,7 @@
     },
     {
         "name": "Topper 2",
-        "image": "topper2.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "97",
         "subject2": "Subject2",
@@ -21,7 +21,7 @@
     },
     {
         "name": "Topper 3",
-        "image": "topper3.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "99",
         "subject2": "Subject2",
@@ -31,7 +31,7 @@
     },
     {
         "name": "Topper 4",
-        "image": "topper4.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "96",
         "subject2": "Subject2",

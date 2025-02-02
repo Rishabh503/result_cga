@@ -6,7 +6,7 @@ import topperData from "../data/topperOnFront.json"
 import { TopperCard } from './TopperCard'
 
 
-export const NavBar = () => {
+export const Home = () => {
 
   const [faculties,setFaculties]=useState([])
   const [topper,setToppers]=useState([])
@@ -33,12 +33,12 @@ export const NavBar = () => {
         </p>
         </div>
             <div className='sm:w-2/5 mt-4 sm:p-8 sm:mr-12 content-center p-12'>
-             <img src="cga_logo.png" alt="" />
+             <img  src="cga_logo.png"   alt="" />
         </div>
       </div>
       {/* about us  */}
       <div className='flex flex-col gap-4 p-4  sm:p-7 ' >
-       <h1 className='font-bold text-[4vw]  '>
+       <h1 className='font-bold text-[4vw] sm:text-[2.5vw] sm:font-semibold  '>
         About Us
        </h1>
         <p>
@@ -47,7 +47,7 @@ export const NavBar = () => {
       </div>
       {/* faculties */}
       <div className='flex flex-col content-center justify-between text-start  gap-4 p-4  sm:p-7 ' >
-       <h1 className='font-bold text-[4vw]  '>
+       <h1 className='font-bold text-[4vw] sm:text-[2.5vw] sm:font-semibold  '>
        Faculties
        </h1>
        <div className='flex sm:flex-row flex-col items-center justify-center gap-5  flex-wrap '>
@@ -70,7 +70,7 @@ export const NavBar = () => {
 
       {/* toppers  */}
       <div className='flex flex-col content-center justify-between text-start  gap-4 p-4  sm:p-7 ' >
-       <h1 className='font-bold text-[4vw]  '>
+       <h1 className='font-bold text-[4vw] sm:text-[2.5vw] sm:font-semibold '>
        Toppers
        </h1>
        <div className='grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4   items-center justify-center gap-5   '>

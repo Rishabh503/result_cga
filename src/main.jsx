@@ -6,20 +6,21 @@ import {createBrowserRouter, createRoutesFromElements, Route ,RouterProvider} fr
 import Footer from './components/Footer.jsx'
 import { ResultDashBoard } from './components/ResultDashBoard.jsx'
 import { Result } from './components/Result.jsx'
-import { NavBar } from './components/NavBar.jsx'
+import { Home } from './components/NavBar.jsx'
 import { Faculty } from './components/Faculty.jsx'
 import { Topper } from './components/Topper.jsx'
+import { Contact } from './components/Contact.jsx'
 
 
 const router=createBrowserRouter(
   createRoutesFromElements(
     <Route path='/' element ={<App/>}>
-    <Route path='' element ={<NavBar/>}/>
+    <Route path='' element ={<Home/>}/>
     <Route path='/result' element ={<Result/>}/>
     <Route path='/faculties' element ={<Faculty/>}/>
     <Route path='/toppers' element ={<Topper/>}/>
+    <Route path='/contact' element ={<Contact/>}/>
     
-
     <Route path='/result/linkClass6' element ={<ResultDashBoard value={"class 6"}/>}/>
     <Route path='/result/linkClass7' element ={<ResultDashBoard value={"class 7"}/>}/>
     <Route path='/result/linkClass8' element ={<ResultDashBoard value={"class 8"}/>}/>

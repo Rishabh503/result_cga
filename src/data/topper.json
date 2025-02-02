@@ -1,7 +1,7 @@
 [
     {
         "name": "Topper 1",
-        "image": "topper1.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "98",
         "subject2": "Subject2",
@@ -11,7 +11,7 @@
     },
     {
         "name": "Topper 2",
-        "image": "topper2.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "97",
         "subject2": "Subject2",
@@ -21,7 +21,7 @@
     },
     {
         "name": "Topper 3",
-        "image": "topper3.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "99",
         "subject2": "Subject2",
@@ -31,7 +31,7 @@
     },
     {
         "name": "Topper 4",
-        "image": "topper4.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "96",
         "subject2": "Subject2",
@@ -41,7 +41,7 @@
     },
     {
         "name": "Topper 5",
-        "image": "topper5.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "95",
         "subject2": "Subject2",
@@ -51,7 +51,7 @@
     },
     {
         "name": "Topper 6",
-        "image": "topper6.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "94",
         "subject2": "Subject2",
@@ -61,7 +61,7 @@
     },
     {
         "name": "Topper 7",
-        "image": "topper7.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "93",
         "subject2": "Subject2",
@@ -71,7 +71,7 @@
     },
     {
         "name": "Topper 8",
-        "image": "topper8.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "92",
         "subject2": "Subject2",
@@ -81,7 +81,7 @@
     },
     {
         "name": "Topper 9",
-        "image": "topper9.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "91",
         "subject2": "Subject2",
@@ -91,7 +91,7 @@
     },
     {
         "name": "Topper 10",
-        "image": "topper10.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "90",
         "subject2": "Subject2",
@@ -101,7 +101,7 @@
     },
     {
         "name": "Topper 11",
-        "image": "topper11.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "89",
         "subject2": "Subject2",
@@ -111,7 +111,7 @@
     },
     {
         "name": "Topper 12",
-        "image": "topper12.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "88",
         "subject2": "Subject2",
@@ -121,7 +121,7 @@
     },
     {
         "name": "Topper 13",
-        "image": "topper13.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "87",
         "subject2": "Subject2",
@@ -131,7 +131,7 @@
     },
     {
         "name": "Topper 14",
-        "image": "topper14.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "86",
         "subject2": "Subject2",
@@ -141,7 +141,7 @@
     },
     {
         "name": "Topper 15",
-        "image": "topper15.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "85",
         "subject2": "Subject2",
@@ -151,7 +151,7 @@
     },
     {
         "name": "Topper 16",
-        "image": "topper16.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "84",
         "subject2": "Subject2",
@@ -161,7 +161,7 @@
     },
     {
         "name": "Topper 17",
-        "image": "topper17.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "83",
         "subject2": "Subject2",
@@ -171,7 +171,7 @@
     },
     {
         "name": "Topper 18",
-        "image": "topper18.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "82",
         "subject2": "Subject2",
@@ -181,7 +181,7 @@
     },
     {
         "name": "Topper 19",
-        "image": "topper19.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "81",
         "subject2": "Subject2",
@@ -191,7 +191,7 @@
     },
     {
         "name": "Topper 20",
-        "image": "topper20.jpg",
+        "image": "profile.jpg",
         "subject1": "Subject1",
         "marks1": "80",
         "subject2": "Subject2",

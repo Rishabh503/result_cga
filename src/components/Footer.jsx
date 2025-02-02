@@ -2,8 +2,9 @@ import React from 'react'
 import { FaFacebook, FaGooglePlay, FaInstagram, FaTelegram, FaWhatsapp, FaYoutube } from "react-icons/fa";
 const Footer = () => {
   return (
-    <footer className='bg-black mt-16 w-full    p-4 text-white'>
-       <div className='flex flex-col gap-4 bottom-0  '>
+    <footer className='bg-black w-full    text-white'>
+     <div className=' mt-16 p-4 '>
+     <div className='flex flex-col gap-4 bottom-0  '>
         <h1>THE CHANAKYA GURU ACADEMY</h1>
         <p>ADDRESS : A-444 Main Road West Vinod Nagar Shanti Marg Delhi-110092</p>
         <p>Contact : 9654596700 , 9868882363</p>
@@ -28,6 +29,7 @@ const Footer = () => {
       </a>
        <FaFacebook />
        </div>
+     </div>
      </footer>
   )
 }
