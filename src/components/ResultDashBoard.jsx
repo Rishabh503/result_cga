@@ -11,11 +11,11 @@ export const ResultDashBoard = ({value}) => {
        <div className='h-auto flex w-screen p-1 px-10 sm:px-32 flex-col gap-4'>
          {
            value.map((data)=>(
-             <div className=' text-[#000000] shadow-lg text-lg font-semibold  px-8 p-4 rounded-2xl bg-[#ffffff] border border-t-black  '>
+             <div className=' text-[#000000] w-auto shadow-lg text-lg font-semibold  px-8 p-4 rounded-2xl bg-[#ffffff] border border-t-black  '>
                  <p className='font-bold'>
                    {data.name}
                  </p>
-                <div className='flex justify-between'>
+                <div className='flex justify-between flex-wrap'>
                     <div className=' flex flex-col justify-between items-start'>
                       <p >
                         {data.subject1}
@@ -26,34 +26,26 @@ export const ResultDashBoard = ({value}) => {
                     </div>
                     <div className=' flex flex-col justify-between items-start'>
                       <p >
-                        {data.subject1}
+                        {data.subject2}
                       </p>
                     <p>
-                      {data.marks1}
+                      {data.marks2}
                     </p>
                     </div>
                     <div className=' flex flex-col justify-between items-start'>
                       <p >
-                        {data.subject1}
+                        {data.subject3}
                       </p>
                     <p>
-                      {data.marks1}
+                      {data.marks3}
                     </p>
                     </div>
                     <div className=' flex flex-col justify-between items-start'>
                       <p >
-                        {data.subject1}
+                        {data.subject4}
                       </p>
                     <p>
-                      {data.marks1}
-                    </p>
-                    </div>
-                    <div className=' flex flex-col justify-between items-start'>
-                      <p >
-                        {data.subject1}
-                      </p>
-                    <p>
-                      {data.marks1}
+                      {data.marks4}
                     </p>
                     </div>
                 </div>

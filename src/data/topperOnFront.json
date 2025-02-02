@@ -1,42 +1,50 @@
 [
     {
         "name": "Topper 1",
-        "image": "profile.jpg",
-        "subject1": "Subject1",
+        "image": "profile1.jpg",
+        "subject1": "Maths",
         "marks1": "98",
-        "subject2": "Subject2",
+        "subject2": "Science",
         "marks2": "96",
-        "subject3": "Subject3",
-        "marks3": "95"
+        "subject3": "English",
+        "marks3": "95",
+        "subject4": "SST",
+        "marks4": "95"
     },
     {
         "name": "Topper 2",
-        "image": "profile.jpg",
-        "subject1": "Subject1",
-        "marks1": "97",
-        "subject2": "Subject2",
-        "marks2": "95",
-        "subject3": "Subject3",
-        "marks3": "94"
+        "image": "profile2.jpg",
+        "subject1": "Maths",
+        "marks1": "99",
+        "subject2": "Science",
+        "marks2": "97",
+        "subject3": "English",
+        "marks3": "94",
+        "subject4": "SST",
+        "marks4": "96"
     },
     {
         "name": "Topper 3",
-        "image": "profile.jpg",
-        "subject1": "Subject1",
-        "marks1": "99",
-        "subject2": "Subject2",
-        "marks2": "97",
-        "subject3": "Subject3",
-        "marks3": "96"
+        "image": "profile3.jpg",
+        "subject1": "Maths",
+        "marks1": "97",
+        "subject2": "Science",
+        "marks2": "95",
+        "subject3": "English",
+        "marks3": "96",
+        "subject4": "SST",
+        "marks4": "94"
     },
     {
         "name": "Topper 4",
-        "image": "profile.jpg",
-        "subject1": "Subject1",
+        "image": "profile4.jpg",
+        "subject1": "Maths",
         "marks1": "96",
-        "subject2": "Subject2",
+        "subject2": "Science",
         "marks2": "94",
-        "subject3": "Subject3",
-        "marks3": "93"
+        "subject3": "English",
+        "marks3": "97",
+        "subject4": "SST",
+        "marks4": "93"
     }
 ]
