@@ -2,14 +2,18 @@ import React, { useEffect, useState } from 'react'
 import { NavLink } from 'react-router-dom'
 import { ProfileCard } from './ProfileCard'
 import facultyData from "../data/facultyOnFront.json"
+import topperData from "../data/topperOnFront.json"
+import { TopperCard } from './TopperCard'
 
 
 export const NavBar = () => {
 
   const [faculties,setFaculties]=useState([])
+  const [topper,setToppers]=useState([])
 
   useEffect(()=>{
-    setFaculties(facultyData.slice(0,4))
+    setFaculties(facultyData),
+    setToppers(topperData)
   },[])
   return (
     <div className='h-auto w-screen bg-[#B0BEC5 ]'>
@@ -24,7 +28,7 @@ export const NavBar = () => {
                       GURU ACADEMY
                       </p>
                 </div>
-        <p className='text-[#B0BEC5] text-[9vw] sm:text-[3vw]'>
+        <p className='text-[#B0BEC5] text-[9vw] tetx-semibold sm:text-[3vw]'>
           Knowledge is Priority
         </p>
         </div>
@@ -57,7 +61,30 @@ export const NavBar = () => {
        </div>
        <div className='text-end'>
        <NavLink to='/faculties'>
-          <button className='sm:px-8 p:6 mx-8  sm:mr-16 bg-blue-400 rounded-lg'  >
+          <button className='sm:px-8 px-6 mx-8  sm:mr-16 bg-blue-400 rounded-lg'  >
+              See All
+          </button>
+        </NavLink>
+       </div>
+      </div>
+
+      {/* toppers  */}
+      <div className='flex flex-col content-center justify-between text-start  gap-4 p-4  sm:p-7 ' >
+       <h1 className='font-bold text-[4vw]  '>
+       Toppers
+       </h1>
+       <div className='grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4   items-center justify-center gap-5   '>
+        {
+          topperData.map((topper,index)=>(
+            <div key={index}  >
+                <TopperCard topper={topper}/>
+            </div>
+          ))
+        }
+       </div>
+       <div className='text-end'>
+       <NavLink to='/toppers'>
+          <button className='sm:px-8 px-6 mx-8  sm:mr-16 bg-blue-400 rounded-lg'  >
               See All
           </button>
         </NavLink>

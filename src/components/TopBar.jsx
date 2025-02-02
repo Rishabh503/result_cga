@@ -13,7 +13,7 @@ export const TopBar = () => {
                 Home
             </NavLink>
             
-            <NavLink to='/'>
+            <NavLink to='/toppers'>
                 Toppers
             </NavLink>
             

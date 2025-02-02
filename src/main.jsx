@@ -8,6 +8,7 @@ import { ResultDashBoard } from './components/ResultDashBoard.jsx'
 import { Result } from './components/Result.jsx'
 import { NavBar } from './components/NavBar.jsx'
 import { Faculty } from './components/Faculty.jsx'
+import { Topper } from './components/Topper.jsx'
 
 
 const router=createBrowserRouter(
@@ -16,6 +17,8 @@ const router=createBrowserRouter(
     <Route path='' element ={<NavBar/>}/>
     <Route path='/result' element ={<Result/>}/>
     <Route path='/faculties' element ={<Faculty/>}/>
+    <Route path='/toppers' element ={<Topper/>}/>
+    
 
     <Route path='/result/linkClass6' element ={<ResultDashBoard value={"class 6"}/>}/>
     <Route path='/result/linkClass7' element ={<ResultDashBoard value={"class 7"}/>}/>

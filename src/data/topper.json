@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Topper 1",
+        "image": "topper1.jpg",
+        "subject1": "Subject1",
+        "marks1": "98",
+        "subject2": "Subject2",
+        "marks2": "96",
+        "subject3": "Subject3",
+        "marks3": "95"
+    },
+    {
+        "name": "Topper 2",
+        "image": "topper2.jpg",
+        "subject1": "Subject1",
+        "marks1": "97",
+        "subject2": "Subject2",
+        "marks2": "95",
+        "subject3": "Subject3",
+        "marks3": "94"
+    },
+    {
+        "name": "Topper 3",
+        "image": "topper3.jpg",
+        "subject1": "Subject1",
+        "marks1": "99",
+        "subject2": "Subject2",
+        "marks2": "97",
+        "subject3": "Subject3",
+        "marks3": "96"
+    },
+    {
+        "name": "Topper 4",
+        "image": "topper4.jpg",
+        "subject1": "Subject1",
+        "marks1": "96",
+        "subject2": "Subject2",
+        "marks2": "94",
+        "subject3": "Subject3",
+        "marks3": "93"
+    },
+    {
+        "name": "Topper 5",
+        "image": "topper5.jpg",
+        "subject1": "Subject1",
+        "marks1": "95",
+        "subject2": "Subject2",
+        "marks2": "93",
+        "subject3": "Subject3",
+        "marks3": "92"
+    },
+    {
+        "name": "Topper 6",
+        "image": "topper6.jpg",
+        "subject1": "Subject1",
+        "marks1": "94",
+        "subject2": "Subject2",
+        "marks2": "92",
+        "subject3": "Subject3",
+        "marks3": "91"
+    },
+    {
+        "name": "Topper 7",
+        "image": "topper7.jpg",
+        "subject1": "Subject1",
+        "marks1": "93",
+        "subject2": "Subject2",
+        "marks2": "91",
+        "subject3": "Subject3",
+        "marks3": "90"
+    },
+    {
+        "name": "Topper 8",
+        "image": "topper8.jpg",
+        "subject1": "Subject1",
+        "marks1": "92",
+        "subject2": "Subject2",
+        "marks2": "90",
+        "subject3": "Subject3",
+        "marks3": "89"
+    },
+    {
+        "name": "Topper 9",
+        "image": "topper9.jpg",
+        "subject1": "Subject1",
+        "marks1": "91",
+        "subject2": "Subject2",
+        "marks2": "89",
+        "subject3": "Subject3",
+        "marks3": "88"
+    },
+    {
+        "name": "Topper 10",
+        "image": "topper10.jpg",
+        "subject1": "Subject1",
+        "marks1": "90",
+        "subject2": "Subject2",
+        "marks2": "88",
+        "subject3": "Subject3",
+        "marks3": "87"
+    },
+    {
+        "name": "Topper 11",
+        "image": "topper11.jpg",
+        "subject1": "Subject1",
+        "marks1": "89",
+        "subject2": "Subject2",
+        "marks2": "87",
+        "subject3": "Subject3",
+        "marks3": "86"
+    },
+    {
+        "name": "Topper 12",
+        "image": "topper12.jpg",
+        "subject1": "Subject1",
+        "marks1": "88",
+        "subject2": "Subject2",
+        "marks2": "86",
+        "subject3": "Subject3",
+        "marks3": "85"
+    },
+    {
+        "name": "Topper 13",
+        "image": "topper13.jpg",
+        "subject1": "Subject1",
+        "marks1": "87",
+        "subject2": "Subject2",
+        "marks2": "85",
+        "subject3": "Subject3",
+        "marks3": "84"
+    },
+    {
+        "name": "Topper 14",
+        "image": "topper14.jpg",
+        "subject1": "Subject1",
+        "marks1": "86",
+        "subject2": "Subject2",
+        "marks2": "84",
+        "subject3": "Subject3",
+        "marks3": "83"
+    },
+    {
+        "name": "Topper 15",
+        "image": "topper15.jpg",
+        "subject1": "Subject1",
+        "marks1": "85",
+        "subject2": "Subject2",
+        "marks2": "83",
+        "subject3": "Subject3",
+        "marks3": "82"
+    },
+    {
+        "name": "Topper 16",
+        "image": "topper16.jpg",
+        "subject1": "Subject1",
+        "marks1": "84",
+        "subject2": "Subject2",
+        "marks2": "82",
+        "subject3": "Subject3",
+        "marks3": "81"
+    },
+    {
+        "name": "Topper 17",
+        "image": "topper17.jpg",
+        "subject1": "Subject1",
+        "marks1": "83",
+        "subject2": "Subject2",
+        "marks2": "81",
+        "subject3": "Subject3",
+        "marks3": "80"
+    },
+    {
+        "name": "Topper 18",
+        "image": "topper18.jpg",
+        "subject1": "Subject1",
+        "marks1": "82",
+        "subject2": "Subject2",
+        "marks2": "80",
+        "subject3": "Subject3",
+        "marks3": "79"
+    },
+    {
+        "name": "Topper 19",
+        "image": "topper19.jpg",
+        "subject1": "Subject1",
+        "marks1": "81",
+        "subject2": "Subject2",
+        "marks2": "79",
+        "subject3": "Subject3",
+        "marks3": "78"
+    },
+    {
+        "name": "Topper 20",
+        "image": "topper20.jpg",
+        "subject1": "Subject1",
+        "marks1": "80",
+        "subject2": "Subject2",
+        "marks2": "78",
+        "subject3": "Subject3",
+        "marks3": "77"
+    }
+]

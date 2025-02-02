@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Topper 1",
+        "image": "topper1.jpg",
+        "subject1": "Subject1",
+        "marks1": "98",
+        "subject2": "Subject2",
+        "marks2": "96",
+        "subject3": "Subject3",
+        "marks3": "95"
+    },
+    {
+        "name": "Topper 2",
+        "image": "topper2.jpg",
+        "subject1": "Subject1",
+        "marks1": "97",
+        "subject2": "Subject2",
+        "marks2": "95",
+        "subject3": "Subject3",
+        "marks3": "94"
+    },
+    {
+        "name": "Topper 3",
+        "image": "topper3.jpg",
+        "subject1": "Subject1",
+        "marks1": "99",
+        "subject2": "Subject2",
+        "marks2": "97",
+        "subject3": "Subject3",
+        "marks3": "96"
+    },
+    {
+        "name": "Topper 4",
+        "image": "topper4.jpg",
+        "subject1": "Subject1",
+        "marks1": "96",
+        "subject2": "Subject2",
+        "marks2": "94",
+        "subject3": "Subject3",
+        "marks3": "93"
+    }
+]

@@ -23,7 +23,7 @@ export const Result = () => {
         <div className='h-auto flex w-screen p-1  flex-col gap-4'>
           {
             Data.map((data)=>(
-              <div className='flex text-[#000000] text-lg font-semibold justify-between  px-8 p-3 rounded-2xl bg-[#938a86]  '>
+              <div className='flex text-[#000000] shadow-lg text-lg font-semibold justify-between  px-8 p-3 rounded-2xl bg-[#ffffff] border border-t-black  '>
                   <p>
                     {data.Name}
                   </p>
