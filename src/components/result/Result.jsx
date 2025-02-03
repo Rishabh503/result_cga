@@ -5,11 +5,12 @@ export const Result = () => {
   const Data = [
     { Name: "Class 6", link: "/result/linkClass6"  , value:"Result" },
     { Name: "Class 7", link: "/result/linkClass7" , value:"Result" },
-    { Name: "Class 8", link: "/result/linkClass8" , value:"Result" },
+    { Name: "Class 8", link: "/result/academic" , value:"Result" },
     { Name: "Class 9", link: "/result/linkClass9" , value:"Result" },
     { Name: "Class 10", link: "/result/linkClass10" , value:"Result" },
     { Name: "Class 11", link: "/result/linkClass11" , value:"Result" },
-    { Name: "Class 12", link: "/result/linkClass12" , value:"Result" },
+    { Name: "Class 12 English", link: "/result/linkClass12" , value:"Result" },
+    { Name: "Class 12 Science", link: "/result/linkClass12chem" , value:"Result" }
    
   ];
   

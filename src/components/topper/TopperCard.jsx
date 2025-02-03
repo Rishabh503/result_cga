@@ -17,6 +17,7 @@ export const TopperCard = ({topper}) => {
       {/* Details Section */}
       <div className="text-center mt-4">
         <h2 className="text-xl sm:text-2xl font-bold text-gray-800">{topper.name}</h2>
+        <h2>{topper.school}</h2>
        <div className='flex flex-col'>
             <div className='flex content-center justify-between align-middle text-center
             text-gray-800 font-semibold text-sm sm:text-base mt-1 '>

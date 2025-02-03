@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState } from 'react';
 import { AiOutlineMail, AiOutlinePhone } from "react-icons/ai";
 import { CiLocationOn } from "react-icons/ci";
 import { IoIosSend } from "react-icons/io";
@@ -36,9 +36,9 @@ export const Contact = () => {
 
     }
   return (
-    <section className='w-full  h-auto min-h-screen bg-red-50'>
+    <section className='w-full  h-auto min-h-screen bg-'>
         {/* top portion  */}
-        <div className=' bg-red-600 p-12 sm:p-20 flex flex-col items-center justify-center'>
+        <div className=' bg-amber-800 p-12 sm:p-20 flex flex-col items-center justify-center'>
             <h1 className='font-[poppins] text-white text-[32px] sm:text-[48px]'>
                 Get in Touch
             </h1>
@@ -50,9 +50,9 @@ export const Contact = () => {
         <div className=' flex flex-col  px-6 py-6 sm:px-24 sm:py-20 '>
            <div className='bg-white shadow-md rounded-lg p-6 sm:p-10 border-red-100'>
             
-                    <p className='text-lg text-red-700 sm:text-xl font-semibold'>Send us a Message</p>
+                    <p className='text-lg text-black sm:text-xl font-semibold'>Send us a Message</p>
                
-                <form className='text-red-500 mt-4 gap-3 flex flex-col' onSubmit={handleSubmit}>
+                <form className='text-black mt-4 gap-3 flex flex-col' onSubmit={handleSubmit}>
                     <label  className='text-[14px] font-semibold ' htmlFor="">Your Name</label>
                     <input className='h-12 rounded-md border text-black border-[#fecaca]' type="text" name="name" required onChange={handleChange} />
                     <label  className='text-[14px] font-semibold ' htmlFor="">Your Contact</label>

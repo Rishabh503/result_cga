@@ -10,10 +10,11 @@ export const ResultPage = () => {
     { Name: "Class 10", link: "/result/linkClass10" , value:"Result" },
     { Name: "Class 11", link: "/result/linkClass11" , value:"Result" },
     { Name: "Class 12", link: "/result/linkClass12" , value:"Result" },
+    
    
   ];
   const Data2=[
-    {name:"Academice Feb-25",link:"/result/academic",value:"Result"},
+    {name:"Academic Feb-25",link:"/result/academic",value:"Result"},
     {name:"Scholarship ",link:"/result/scholarship",value:"Result"},
     {name:"Boards ",link:"/result/boards",value:"Result"},
   ]

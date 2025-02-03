@@ -1,0 +1,53 @@
+[
+    {
+        "name":"Mohd Ishan",
+        "subject1":"Chemistry",
+        "marks1":"17.75"
+    },
+    {
+        "name":"Chetanya",
+        "subject1":"Chemistry",
+        "marks1":"5"
+    },
+    {
+        "name":"Aditya Kumar",
+        "subject1":"Chemistry",
+        "marks1":"8"
+    },
+    {
+        "name":"Noman",
+        "subject1":"Chemistry",
+        "marks1":"24.5"
+    },
+    {
+        "name":"Shabana",
+        "subject1":"Chemistry",
+        "marks1":"12.5"
+    },
+    {
+        "name":"Tabassum",
+        "subject1":"Chemistry",
+        "marks1":"9"
+    },
+    {
+        "name":"Nidhi",
+        "subject1":"Chemistry",
+        "marks1":"11.5"
+    },
+    {
+        "name":"Piyush Gaur",
+        "subject1":"Chemistry",
+        "marks1":"7.5"
+    },
+    {
+        "name":"Ankit",
+        "subject1":"Chemistry",
+        "marks1":"11.5"
+    },
+    {
+        "name":"Aastha",
+        "subject1":"Chemistry",
+        "marks1":"16.5"
+    }
+    
+]

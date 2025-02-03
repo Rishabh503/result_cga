@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Aliya",
+        "subject1": "Maths",
+        "marks1": 13,
+        "subject2": "Science",
+        "marks2": 13,
+        "subject3": "S.St",
+        "marks3": 17.5,
+        "subject4": "English",
+        "marks4": 21
+    },
+    {
+        "name": "Ananya",
+        "subject1": "Maths",
+        "marks1": 7,
+        "subject2": "Science",
+        "marks2": 12,
+        "subject3": "S.St",
+        "marks3": 14,
+        "subject4": "English",
+        "marks4": 12
+    },
+    {
+        "name": "Diksha",
+        "subject1": "Maths",
+        "marks1": 9,
+        "subject2": "Science",
+        "marks2": 21,
+        "subject3": "S.St",
+        "marks3": 20,
+        "subject4": "English",
+        "marks4": 21
+    },
+    {
+        "name": "Lakshi",
+        "subject1": "Maths",
+        "marks1": "Ab",
+        "subject2": "Science",
+        "marks2": 9,
+        "subject3": "S.St",
+        "marks3": 6,
+        "subject4": "English",
+        "marks4": 13.5
+    },
+    {
+        "name": "Meera",
+        "subject1": "Maths",
+        "marks1": 5,
+        "subject2": "Science",
+        "marks2": 10.5,
+        "subject3": "S.St",
+        "marks3": 17,
+        "subject4": "English",
+        "marks4": 15.5
+    },
+    {
+        "name": "Sakshi",
+        "subject1": "Maths",
+        "marks1": 6.5,
+        "subject2": "Science",
+        "marks2": 12.5,
+        "subject3": "S.St",
+        "marks3": 14,
+        "subject4": "English",
+        "marks4": 16.5
+    },
+    {
+        "name": "Anshi",
+        "subject1": "Maths",
+        "marks1": 4,
+        "subject2": "Science",
+        "marks2": 11.5,
+        "subject3": "S.St",
+        "marks3": 8,
+        "subject4": "English",
+        "marks4": 15
+    },
+    {
+        "name": "Yohana",
+        "subject1": "Maths",
+        "marks1": 46.5,
+        "subject2": "Science",
+        "marks2": 47,
+        "subject3": "S.St",
+        "marks3": 60,
+        "subject4": "English",
+        "marks4": 52
+    },
+    {
+        "name": "Sumit",
+        "subject1": "Maths",
+        "marks1": 16,
+        "subject2": "Science",
+        "marks2": 14,
+        "subject3": "S.St",
+        "marks3": 20,
+        "subject4": "English",
+        "marks4": 33.5
+    },
+    {
+        "name": "Harsh",
+        "subject1": "Maths",
+        "marks1": 15.5,
+        "subject2": "Science",
+        "marks2": 15,
+        "subject3": "S.St",
+        "marks3": 13,
+        "subject4": "English",
+        "marks4": 21.5
+    },
+    {
+        "name": "Ritesh",
+        "subject1": "Maths",
+        "marks1": 6,
+        "subject2": "Science",
+        "marks2": 9,
+        "subject3": "S.St",
+        "marks3": "Ab",
+        "subject4": "English",
+        "marks4": 29
+    },
+    {
+        "name": "Kunal",
+        "subject1": "Maths",
+        "marks1": 4.5,
+        "subject2": "Science",
+        "marks2": 7.5,
+        "subject3": "S.St",
+        "marks3": 8,
+        "subject4": "English",
+        "marks4": 27
+    },
+    {
+        "name": "Kavy",
+        "subject1": "Maths",
+        "marks1": 8.5,
+        "subject2": "Science",
+        "marks2": 23,
+        "subject3": "S.St",
+        "marks3": 18.5,
+        "subject4": "English",
+        "marks4": 28.5
+    },
+    {
+        "name": "Kartik",
+        "subject1": "Maths",
+        "marks1": 9.5,
+        "subject2": "Science",
+        "marks2": 14,
+        "subject3": "S.St",
+        "marks3": 12,
+        "subject4": "English",
+        "marks4": 12.5
+    },
+    {
+        "name": "Parishit",
+        "subject1": "Maths",
+        "marks1": 4,
+        "subject2": "Science",
+        "marks2": 6,
+        "subject3": "S.St",
+        "marks3": 10,
+        "subject4": "English",
+        "marks4": 4
+    },
+    {
+        "name": "Ayush k",
+        "subject1": "Maths",
+        "marks1": 4,
+        "subject2": "Science",
+        "marks2": 5,
+        "subject3": "S.St",
+        "marks3": 11,
+        "subject4": "English",
+        "marks4": 18
+    },
+    {
+        "name": "Raghav",
+        "subject1": "Maths",
+        "marks1": 11.5,
+        "subject2": "Science",
+        "marks2": 10,
+        "subject3": "S.St",
+        "marks3": 14,
+        "subject4": "English",
+        "marks4": 28
+    },
+    {
+        "name": "Saksham",
+        "subject1": "Maths",
+        "marks1": 8,
+        "subject2": "Science",
+        "marks2": 19.5,
+        "subject3": "S.St",
+        "marks3": 12,
+        "subject4": "English",
+        "marks4": 13.5
+    },
+    {
+        "name": "Ujjwal",
+        "subject1": "Maths",
+        "marks1": 2.5,
+        "subject2": "Science",
+        "marks2": 5,
+        "subject3": "S.St",
+        "marks3": 4,
+        "subject4": "English",
+        "marks4": 0
+    },
+    {
+        "name": "Shailendra",
+        "subject1": "Maths",
+        "marks1": 2,
+        "subject2": "Science",
+        "marks2": 3,
+        "subject3": "S.St",
+        "marks3": 2,
+        "subject4": "English",
+        "marks4": 0
+    }
+]
