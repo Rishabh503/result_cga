@@ -3,224 +3,324 @@
         "name": "Sanvi",
         "subject1": "English",
         "marks1": "55",
-        "subject2": "",
-        "marks2": ""
+        "subject2": "BSt",
+        "marks2": "41",
+        "subject3": "Accounts",
+        "marks3": "42",
+        "subject4": "Economics",
+        "marks4": "29"
     },
     {
         "name": "Anushka Toshi",
         "subject1": "English",
         "marks1": "17",
         "subject2": "",
-        "marks2": ""
+        "marks2": "",
+        "subject3": "Accounts",
+        "marks3": "",
+        "subject4": "Economics",
+        "marks4": ""
     },
     {
-        "name": "Raksh",
+        "name": "Daksh",
         "subject1": "English",
         "marks1": "46",
-        "subject2": "",
-        "marks2": ""
+        "subject2": "BSt",
+        "marks2": "24",
+        "subject3": "Accounts",
+        "marks3": "30",
+        "subject4": "Economics",
+        "marks4": "42.5"
     },
     {
-        "name": "Tauren",
+        "name": "Fareen",
         "subject1": "English",
         "marks1": "38",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Taj",
-        "subject1": "English",
-        "marks1": "13",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Sagar",
-        "subject1": "English",
-        "marks1": "44",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Anmol",
-        "subject1": "English",
-        "marks1": "29",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Eisha",
-        "subject1": "English",
-        "marks1": "50",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Promshu",
-        "subject1": "English",
-        "marks1": "54",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Tabish",
-        "subject1": "English",
-        "marks1": "39",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Tabassum",
-        "subject1": "English",
-        "marks1": "58",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Ritesh",
-        "subject1": "English",
-        "marks1": "45",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Anushka",
-        "subject1": "English",
-        "marks1": "42",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Ankita",
-        "subject1": "English",
-        "marks1": "32",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Riddhi",
-        "subject1": "English",
-        "marks1": "43",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Haykaya",
-        "subject1": "English",
-        "marks1": "30",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Chetna",
-        "subject1": "English",
-        "marks1": "64",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Arushi",
-        "subject1": "English",
-        "marks1": "57",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Bhoomi",
-        "subject1": "English",
-        "marks1": "60",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Rishabh Uniyal",
-        "subject1": "English",
-        "marks1": "43",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Rishav Rana",
-        "subject1": "English",
-        "marks1": "46",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Suraj",
-        "subject1": "English",
-        "marks1": "14",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Dhruv Aggarwal",
-        "subject1": "English",
-        "marks1": "48",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Abhyutash Jha",
-        "subject1": "English",
-        "marks1": "42",
-        "subject2": "",
-        "marks2": ""
+        "subject2": "BSt",
+        "marks2": "22",
+        "subject3": "Accounts",
+        "marks3": "13",
+        "subject4": "Economics",
+        "marks4": "29"
     },
     {
         "name": "Kashif",
         "subject1": "English",
         "marks1": "50",
         "subject2": "",
-        "marks2": ""
+        "marks2": "",
+        "subject3": "Accounts",
+        "marks3": "17",
+        "subject4": "Economics",
+        "marks4": "32"
+    },
+    {
+        "name": "Sagar",
+        "subject1": "English",
+        "marks1": "44",
+        "subject2": "BSt",
+        "marks2": "32",
+        "subject3": "Accounts",
+        "marks3": "37",
+        "subject4": "Economics",
+        "marks4": "42"
+    },
+    {
+        "name": "Deepanshu Rawat",
+        "subject1": "English",
+        "marks1": "41",
+        "subject2": "",
+        "marks2": "",
+        "subject3": "Accounts",
+        "marks3": "30",
+        "subject4": "Economics",
+        "marks4": "24"
+    },
+    {
+        "name": "Anmol",
+        "subject1": "English",
+        "marks1": "29",
+        "subject2": "BSt",
+        "marks2": "19",
+        "subject3": "",
+        "marks3": "",
+        "subject4": "Economics",
+        "marks4": "26"
+    },
+    {
+        "name": "Faiz",
+        "subject1": "English",
+        "marks1": "13",
+        "subject2": "BSt",
+        "marks2": "07",
+        "subject3": "Accounts",
+        "marks3": "10",
+        "subject4": "Economics",
+        "marks4": "30"
+    },
+    {
+        "name": "Pranshu",
+        "subject1": "English",
+        "marks1": "54",
+        "subject2": "BSt",
+        "marks2": "30",
+        "subject3": "Accounts",
+        "marks3": "38",
+        "subject4": "Economics",
+        "marks4": "31"
+    },
+    {
+        "name": "Tabish",
+        "subject1": "English",
+        "marks1": "39",
+        "subject2": "",
+        "marks2": "",
+        "subject3": "Accounts",
+        "marks3": "26",
+        "subject4": "Economics",
+        "marks4": "29"
+    },
+    {
+        "name": "Rishav Rana",
+        "subject1": "English",
+        "marks1": "46",
+        "subject2": "BSt",
+        "marks2": "37",
+        "subject3": "Accounts",
+        "marks3": "43"
+    },
+    {
+        "name": "Ritesh",
+        "subject1": "English",
+        "marks1": "45",
+        "subject2": "BSt",
+        "marks2": "17",
+        "subject3": "Accounts",
+        "marks3": "32",
+        "subject4": "Economics",
+        "marks4": "31"
+    },
+    {
+        "name": "Anushka",
+        "subject1": "English",
+        "marks1": "42",
+        "subject2": "BSt",
+        "marks2": "39",
+        "subject3": "Accounts",
+        "marks3": "24",
+        "subject4": "Economics",
+        "marks4": "34"
+    },
+    {
+        "name": "Ankita",
+        "subject1": "English",
+        "marks1": "32",
+        "subject2": "BSt",
+        "marks2": "19",
+        "subject3": "Accounts",
+        "marks3": "13",
+        "subject4": "Economics",
+        "marks4": "24"
+    },
+    {
+        "name": "Chetna",
+        "subject1": "English",
+        "marks1": "64",
+        "subject2": "BSt",
+        "marks2": "65",
+        "subject3": "Accounts",
+        "marks3": "41",
+        "subject4": "Economics",
+        "marks4": "56"
+    },
+    {
+        "name": "Arushi",
+        "subject1": "English",
+        "marks1": "57",
+        "subject2": "",
+        "marks2": "",
+        "subject3": "Accounts",
+        "marks3": "19",
+        "subject4": "Economics",
+        "marks4": "47.5"
+    },
+    {
+        "name": "Bhoomi",
+        "subject1": "English",
+        "marks1": "60",
+        "subject2": "BSt",
+        "marks2": "43",
+        "subject3": "Accounts",
+        "marks3": "58",
+        "subject4": "Economics",
+        "marks4": "53"
+    },
+    {
+        "name": "Rishabh Uniyal",
+        "subject1": "English",
+        "marks1": "43",
+        "subject2": "BSt",
+        "marks2": "35",
+        "subject3": "Accounts",
+        "marks3": "32",
+        "subject4": "Economics",
+        "marks4": "41"
+    },
+    {
+        "name": "Dhruv Aggarwal",
+        "subject1": "English",
+        "marks1": "48",
+        "subject2": "",
+        "marks2": "",
+        "subject3": "Accounts",
+        "marks3": "37",
+        "subject4": "Economics",
+        "marks4": "30"
+    },
+    {
+        "name": "Ashutosh",
+        "subject1": "English",
+        "marks1": "42",
+        "subject2": "BSt",
+        "marks2": "18",
+        "subject3": "Accounts",
+        "marks3": "15",
+        "subject4": "Economics",
+        "marks4": "23"
     },
     {
         "name": "Dhruv Rawat",
         "subject1": "English",
         "marks1": "43",
-        "subject2": "",
-        "marks2": ""
+        "subject2": "BSt",
+        "marks2": "42",
+        "subject3": "Accounts",
+        "marks3": "30",
+        "subject4": "Economics",
+        "marks4": "24"
     },
     {
-        "name": "Shailendra Dubey",
+        "name": "Shailendra",
         "subject1": "English",
         "marks1": "43",
         "subject2": "",
-        "marks2": ""
+        "marks2": "",
+        "subject3": "Accounts",
+        "marks3": "14",
+        "subject4": "Economics",
+        "marks4": "24"
     },
     {
-        "name": "Ragved",
+        "name": "Rigved",
         "subject1": "English",
         "marks1": "49",
-        "subject2": "",
-        "marks2": ""
-    },
-    {
-        "name": "Roshni",
-        "subject1": "English",
-        "marks1": "43",
-        "subject2": "",
-        "marks2": ""
+        "subject2": "BSt",
+        "marks2": "15",
+        "subject3": "Accounts",
+        "marks3": "16",
+        "subject4": "Economics",
+        "marks4": "25"
     },
     {
         "name": "Ruchi",
         "subject1": "English",
         "marks1": "42",
-        "subject2": "",
-        "marks2": ""
+        "subject2": "BSt",
+        "marks2": "26",
+        "subject3": "Accounts",
+        "marks3": "23",
+        "subject4": "Economics",
+        "marks4": "37"
     },
     {
-        "name": "Devanshu Rawat",
+        "name": "Ekta",
         "subject1": "English",
-        "marks1": "41",
-        "subject2": "",
-        "marks2": ""
+        "marks1": "50",
+        "subject2": "BSt",
+        "marks2": "37",
+        "subject3": "Accounts",
+        "marks3": "17",
+        "subject4": "Economics",
+        "marks4": "33.5"
     },
     {
-        "name": "Sabana",
+        "name": "Roshan",
+        "subject1": "",
+        "marks1": "",
+        "subject2": "BSt",
+        "marks2": "27",
+        "subject3": "Accounts",
+        "marks3": "28",
+        "subject4": "Economics",
+        "marks4": "30"
+    },
+    {
+        "name":"Harkaran singh",
+        "subject4":"Economics",
+        "marks4":"20.5",
         "subject1": "English",
-        "marks1": "37",
+        "marks1": "30"
+    },
+    {
+        "name": "Suraj",
+        "subject1": "English",
+        "marks1": "14",
+        "subject2": "BSt",
+        "marks2": "32",
+        "subject3": "",
+        "marks3": "",
+        "subject4": "Economics",
+        "marks4": "20.5"
+    },
+    {
+        "name": "Pranshu",
+        "subject1": "",
+        "marks1": "",
         "subject2": "",
-        "marks2": ""
+        "marks2": "",
+        "subject3": "",
+        "marks3": "",
+        "subject4": "Economics",
+        "marks4": "18"
     }
 ]

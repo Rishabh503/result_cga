@@ -63,7 +63,7 @@
         "subject3": "S.St",
         "marks3": 12,
         "subject4": "English",
-        "marks4": 21
+        "marks4": 24
     },
     {
         "name": "Garima",
@@ -162,7 +162,7 @@
         "subject3": "S.St",
         "marks3": 23,
         "subject4": "English",
-        "marks4": 31
+        "marks4": 22.5
     },
     {
         "name": "Jatin",
@@ -204,7 +204,7 @@
         "subject2": "Science",
         "marks2": 14,
         "subject3": "S.St",
-        "marks3": 12,
+        "marks3": 14,
         "subject4": "English",
         "marks4": 17.5
     },
@@ -215,7 +215,7 @@
         "subject2": "Science",
         "marks2": 7,
         "subject3": "S.St",
-        "marks3": 15,
+        "marks3": 16,
         "subject4": "English",
         "marks4": 31.5
     },

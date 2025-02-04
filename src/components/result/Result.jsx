@@ -9,7 +9,7 @@ export const Result = () => {
     { Name: "Class 9", link: "/result/linkClass9" , value:"Result" },
     { Name: "Class 10", link: "/result/linkClass10" , value:"Result" },
     { Name: "Class 11", link: "/result/linkClass11" , value:"Result" },
-    { Name: "Class 12 English", link: "/result/linkClass12" , value:"Result" },
+    { Name: "Class 12 Commerce", link: "/result/linkClass12" , value:"Result" },
     { Name: "Class 12 Science", link: "/result/linkClass12chem" , value:"Result" }
    
   ];

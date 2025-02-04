@@ -1,31 +1,40 @@
+
 [
     {
         "name": "Rohit",
         "subject1": "Science",
         "marks1": "20.5",
         "subject2": "English",
-        "marks2": "27"
+        "marks2": "27",
+        "subject3": "Maths",
+        "marks3": "16"
     },
     {
         "name": "Ishant",
         "subject1": "Science",
         "marks1": "44",
         "subject2": "English",
-        "marks2": "38"
+        "marks2": "38",
+        "subject3": "Maths",
+        "marks3": "15"
     },
     {
         "name": "Krish",
         "subject1": "Science",
         "marks1": "25.5",
         "subject2": "English",
-        "marks2": "37"
+        "marks2": "37",
+        "subject3": "Maths",
+        "marks3": "27"
     },
     {
         "name": "Shalvi",
         "subject1": "Science",
         "marks1": "57.5",
         "subject2": "English",
-        "marks2": "44"
+        "marks2": "44",
+        "subject3": "Maths",
+        "marks3": "60"
     },
     {
         "name": "Shivam",
@@ -46,42 +55,54 @@
         "subject1": "Science",
         "marks1": "31",
         "subject2": "English",
-        "marks2": "34"
+        "marks2": "34",
+        "subject3": "Maths",
+        "marks3": "14"
     },
     {
         "name": "Sumit",
         "subject1": "Science",
         "marks1": "29.5",
         "subject2": "English",
-        "marks2": "45"
+        "marks2": "45",
+        "subject3": "Maths",
+        "marks3": "24"
     },
     {
         "name": "Tanu",
         "subject1": "Science",
         "marks1": "51",
         "subject2": "English",
-        "marks2": "55"
+        "marks2": "55",
+        "subject3": "Maths",
+        "marks3": "46"
     },
     {
         "name": "Sanchit Nagan",
         "subject1": "Science",
         "marks1": "17.5",
         "subject2": "English",
-        "marks2": "20"
+        "marks2": "20",
+        "subject3": "Maths",
+        "marks3": "Absent"
     },
     {
         "name": "Anivesh",
         "subject1": "Science",
         "marks1": "34.5",
         "subject2": "English",
-        "marks2": "42"
+        "marks2": "42",
+        "subject3": "Maths",
+        "marks3": "11"
     },
     {
         "name": "Ritika",
         "subject1": "Science",
         "marks1": "48.5",
         "subject2": "English",
-        "marks2": "41"
+        "marks2": "41",
+        "subject3": "Maths",
+        "marks3": "63"
     },
     {
         "name": "Ashanka",
@@ -95,28 +116,36 @@
         "subject1": "Science",
         "marks1": "23.5",
         "subject2": "English",
-        "marks2": "34"
+        "marks2": "34",
+        "subject3": "Maths",
+        "marks3": "20"
     },
     {
         "name": "Aditya",
         "subject1": "Science",
         "marks1": "35.5",
         "subject2": "English",
-        "marks2": "53"
+        "marks2": "53",
+        "subject3": "Maths",
+        "marks3": "26"
     },
     {
         "name": "Jasmine",
         "subject1": "Science",
         "marks1": "44",
         "subject2": "English",
-        "marks2": "49"
+        "marks2": "49",
+        "subject3": "Maths",
+        "marks3": "39"
     },
     {
         "name": "Prakash",
         "subject1": "Science",
         "marks1": "40.5",
         "subject2": "English",
-        "marks2": "46"
+        "marks2": "46",
+        "subject3": "Maths",
+        "marks3": "27"
     },
     {
         "name": "Asha",
@@ -144,21 +173,27 @@
         "subject1": "Science",
         "marks1": "",
         "subject2": "English",
-        "marks2": "34"
+        "marks2": "34",
+        "subject3": "Maths",
+        "marks3": "6"
     },
     {
         "name": "Atif",
         "subject1": "Science",
         "marks1": "",
         "subject2": "English",
-        "marks2": "21"
+        "marks2": "21",
+        "subject3": "Maths",
+        "marks3": "1"
     },
     {
         "name": "Anuj",
         "subject1": "Science",
         "marks1": "",
         "subject2": "English",
-        "marks2": "36"
+        "marks2": "36",
+        "subject3": "Maths",
+        "marks3": "17"
     },
     {
         "name": "Kaish Rawat",
@@ -172,27 +207,35 @@
         "subject1": "Science",
         "marks1": "",
         "subject2": "English",
-        "marks2": "13"
+        "marks2": "13",
+        "subject3": "Maths",
+        "marks3": "8"
     },
     {
         "name": "Vedant",
         "subject1": "Science",
         "marks1": "",
         "subject2": "English",
-        "marks2": "45"
+        "marks2": "45",
+        "subject3": "Maths",
+        "marks3": "6"
     },
     {
         "name": "Shubham",
         "subject1": "Science",
         "marks1": "",
         "subject2": "English",
-        "marks2": "26"
+        "marks2": "26",
+        "subject3": "Maths",
+        "marks3": "6"
     },
     {
         "name": "Ankit Kayam",
         "subject1": "Science",
         "marks1": "",
         "subject2": "English",
-        "marks2": "41"
+        "marks2": "41",
+        "subject3": "Maths",
+        "marks3": "28"
     }
 ]
