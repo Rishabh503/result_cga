@@ -13,6 +13,7 @@ import './index.css'
 import { ResultDemo } from './components/result/ResultDemo.jsx'
 import { ResultPage } from './components/result/ResultPage.jsx'
 import class6 from "./data/class6.json"
+import class9 from "./data/class9.json"
 import class7 from "./data/class7.json"
 import class11 from "./data/class11.json"
 import class10 from "./data/class10.json"
@@ -34,7 +35,7 @@ const router=createBrowserRouter(
     <Route path='/result/linkClass6' element ={<ResultDashBoard value={class6}/>}/>
     <Route path='/result/linkClass7' element ={<ResultDashBoard value={class7}/>}/>
     <Route path='/result/linkClass8' element ={<ResultDashBoard value={class6}/>}/>
-    <Route path='/result/linkClass9' element ={<ResultDashBoard value={class6}/>}/>
+    <Route path='/result/linkClass9' element ={<ResultDashBoard value={class9}/>}/>
     <Route path='/result/linkClass10' element ={<ResultDashBoard value={class10}/>}/>
     <Route path='/result/linkClass11' element ={<ResultDashBoard value={class11}/>}/>
     <Route path='/result/linkClass12' element ={<ResultDashBoard value={class12}/>}/>
