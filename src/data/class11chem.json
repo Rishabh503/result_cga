@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Gaurav Rawat",
+        "subject1": "Chemistry",
+        "marks1": "",
+        "subject2": "Physics",
+        "marks2": "22"
+    },
+    {
+        "name": "Khushi Kushwaha",
+        "subject1": "Chemistry",
+        "marks1": "",
+        "subject2": "Physics",
+        "marks2": "12"
+    },
+    {
+        "name": "Bhavna",
+        "subject1": "Chemistry",
+        "marks1": "",
+        "subject2": "Physics",
+        "marks2": "12",
+         "subject3": "Biology",
+        "marks3": "21"
+    },
+    {
+        "name": "Keshvi Verma",
+        "subject1": "Chemistry",
+        "marks1": "",
+        "subject2": "Physics",
+        "marks2": "12"
+    },
+    {
+        "name": "Shweta",
+        "subject1": "Chemistry",
+        "marks1": "",
+        "subject2": "Physics",
+        "marks2": "21",
+        "subject3": "Biology",
+        "marks3": "64"
+    },
+    {
+        "name": "Amrit Dhara",
+        "subject1": "Chemistry",
+        "marks1": "",
+        "subject2": "Physics",
+        "marks2": "6",
+         "subject3": "Biology",
+        "marks3": "19"
+    },
+    {
+        "name": "Siya Tiwari",
+        "subject1": "Chemistry",
+        "marks1": "",
+        "subject2": "Physics",
+        "marks2": "9"
+    }
+]

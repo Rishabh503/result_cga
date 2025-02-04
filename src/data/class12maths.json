@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Aditya",
+        "subject1": "Maths",
+        "marks1": "21"
+    },
+    {
+        "name": "Pranshu",
+        "subject1": "Maths",
+        "marks1": "24"
+    },
+    {
+        "name": "Rishabh Uniyal",
+        "subject1": "Maths",
+        "marks1": "26"
+    },
+    {
+        "name": "Sagar",
+        "subject1": "Maths",
+        "marks1": "18"
+    },
+    {
+        "name": "Ruchi",
+        "subject1": "Maths",
+        "marks1": "20"
+    },
+    {
+        "name": "Rishav Rana",
+        "subject1": "Maths",
+        "marks1": "32"
+    }
+]

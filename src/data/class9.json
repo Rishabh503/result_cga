@@ -1,205 +1,263 @@
 [
     {
+        "name": "Anant Dubey",
         "subject1": "English",
         "marks1": 10,
         "subject2": "Maths",
         "marks2": 5,
-        "name": "Anant Dubey"
+        "subject3": "SST",
+        "marks3": 23
     },
     {
+        "name": "Aarushi",
         "subject1": "English",
         "marks1": 10,
         "subject2": "Maths",
         "marks2": 5,
-        "name": "Aarushi"
+        "subject3": "SST",
+        "marks3": 36
     },
     {
+        "name": "Aditya Sati",
         "subject1": "English",
         "marks1": 14,
         "subject2": "Maths",
         "marks2": 45,
-        "name": "Aditya Sati"
+        "subject3": "SST",
+        "marks3": 41
     },
     {
+        "name": "Jatin Kumar",
         "subject1": "English",
         "marks1": 16,
         "subject2": "Maths",
         "marks2": 36,
-        "name": "Jatin Kumar"
+        "subject3": "SST",
+        "marks3": 31
     },
     {
+        "name": "Hasnen",
         "subject1": "English",
         "marks1": 16,
         "subject2": "Maths",
         "marks2": 15,
-        "name": "Hasnen"
+        "subject3": "SST",
+        "marks3": 20
     },
     {
+        "name": "Sandeep Kumar",
         "subject1": "English",
         "marks1": 16,
         "subject2": "Maths",
         "marks2": 36,
-        "name": "Sandeep Kumar"
+        "subject3": "SST",
+        "marks3": 41
     },
     {
+        "name": "Akash Jha",
         "subject1": "English",
         "marks1": 18,
         "subject2": "Maths",
         "marks2": 19,
-        "name": "Ankush Jha"
+        "subject3": "SST",
+        "marks3": 18
     },
     {
+        "name": "Sakshi Solanki",
         "subject1": "English",
         "marks1": 18,
         "subject2": "Maths",
         "marks2": 22,
-        "name": "Sakshi Solanki"
+        "subject3": "SST",
+        "marks3": 28
     },
     {
+        "name": "Shorya Dogra",
         "subject1": "English",
         "marks1": 20,
         "subject2": "Maths",
         "marks2": 29,
-        "name": "Shorya Dogra"
+        "subject3": "SST",
+        "marks3": 21
     },
     {
+        "name": "Kanishka",
         "subject1": "English",
         "marks1": 20,
         "subject2": "Maths",
         "marks2": 41,
-        "name": "Kanishka"
+        "subject3": "SST",
+        "marks3": 43
     },
     {
+        "name": "Vivek Das",
         "subject1": "English",
         "marks1": 21,
         "subject2": "Maths",
         "marks2": 10,
-        "name": "Vivek Das"
+        "subject3": "SST",
+        "marks3": 24
     },
     {
+        "name": "Lalit Verma",
         "subject1": "English",
         "marks1": 24,
         "subject2": "Maths",
         "marks2": 26,
-        "name": "Lalit Verma"
+        "subject3": "SST",
+        "marks3": 56
     },
     {
+        "name": "Vishal Kumar",
         "subject1": "English",
         "marks1": 25,
         "subject2": "Maths",
         "marks2": 36,
-        "name": "Vishal Kumar"
+        "subject3": "SST",
+        "marks3": 54
     },
     {
+        "name": "Ayush Dubey",
         "subject1": "English",
         "marks1": 27,
         "subject2": "Maths",
         "marks2": 45,
-        "name": "Ayush Dubey"
+        "subject3": "SST",
+        "marks3": 70
     },
     {
+        "name": "Ayush Kumar",
         "subject1": "English",
         "marks1": 29,
         "subject2": "Maths",
         "marks2": 31,
-        "name": "Ayush Kumar"
+        "subject3": "SST",
+        "marks3": 47
     },
     {
+        "name": "Iccha",
         "subject1": "English",
         "marks1": 30,
         "subject2": "Maths",
         "marks2": 28,
-        "name": "Iccha"
+        "subject3": "SST",
+        "marks3": 29
     },
     {
+        "name": "Aditya Maulekhi",
         "subject1": "English",
         "marks1": 34,
         "subject2": "Maths",
         "marks2": 42,
-        "name": "Aditya Maulekhi"
+        "subject3": "SST",
+        "marks3": 54
     },
     {
+        "name": "Ayaan",
         "subject1": "English",
         "marks1": 35,
         "subject2": "Maths",
         "marks2": 35,
-        "name": "Ayaan"
+        "subject3": "SST",
+        "marks3": 41
     },
     {
+        "name": "Unnati",
         "subject1": "English",
         "marks1": 36,
         "subject2": "Maths",
         "marks2": 19,
-        "name": "Unnati"
+        "subject3": "SST",
+        "marks3": 36
     },
     {
+        "name": "Adarsh Dubey",
         "subject1": "English",
         "marks1": 36,
         "subject2": "Maths",
         "marks2": 17,
-        "name": "Adarsh Dubey"
+        "subject3": "SST",
+        "marks3": 25
     },
     {
+        "name": "Naman",
         "subject1": "English",
         "marks1": 37,
         "subject2": "Maths",
         "marks2": 51,
-        "name": "Naman"
+        "subject3": "SST",
+        "marks3": 52
     },
     {
+        "name": "Yuvraj",
         "subject1": "English",
         "marks1": 39,
         "subject2": "Maths",
         "marks2": 23,
-        "name": "Yuvraj"
+        "subject3": "SST",
+        "marks3": 52
     },
     {
+        "name": "Kunal Kumar",
         "subject1": "English",
         "marks1": 39,
         "subject2": "Maths",
         "marks2": 53,
-        "name": "Kunal Kumar"
+        "subject3": "SST",
+        "marks3": 56
     },
     {
+        "name": "Mayank",
         "subject1": "English",
         "marks1": 40,
         "subject2": "Maths",
         "marks2": 34,
-        "name": "Mayank"
+        "subject3": "SST",
+        "marks3": 31
     },
     {
+        "name": "Yashita",
         "subject1": "English",
         "marks1": 41,
         "subject2": "Maths",
         "marks2": 41,
-        "name": "Yashita"
+        "subject3": "SST",
+        "marks3": 35
     },
     {
+        "name": "Devanshi",
         "subject1": "English",
         "marks1": 42,
         "subject2": "Maths",
         "marks2": 33,
-        "name": "Devanshi"
+        "subject3": "SST",
+        "marks3": 46
     },
     {
+        "name": "Taniya Verma",
         "subject1": "English",
         "marks1": 44,
         "subject2": "Maths",
         "marks2": 44,
-        "name": "Taniya Verma"
+        "subject3": "SST",
+        "marks3": 62
     },
     {
+        "name": "Prince Pandey",
         "subject1": "English",
         "marks1": 45,
         "subject2": "Maths",
         "marks2": 57,
-        "name": "Prince Pandey"
+        "subject3": "SST",
+        "marks3": 60
     },
     {
+        "name": "Vikas Parida",
         "subject1": "English",
         "marks1": 47,
         "subject2": "Maths",
         "marks2": 70,
-        "name": "Vikas Parida"
+        "subject3": "SST",
+        "marks3": 60
     }
 ]

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Anushka Joshi",
+        "subject1": "Pol Science",
+        "marks1": "NA",
+        "subject2": "History",
+        "marks2": "40"
+    },
+    {
+        "name": "Harkaran Singh",
+        "subject1": "Pol Science",
+        "marks1": "34",
+        "subject2": "History",
+        "marks2": "19"
+    },
+    {
+        "name": "Suraj Negi",
+        "subject1": "Pol Science",
+        "marks1": "NA",
+        "subject2": "History",
+        "marks2": "21"
+    },
+    {
+        "name": "Nisha Sharma",
+        "subject1": "Pol Science",
+        "marks1": "32",
+        "subject2": "History",
+        "marks2": "NA"
+    }
+]

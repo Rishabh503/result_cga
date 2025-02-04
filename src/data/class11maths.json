@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Khushi",
+        "subject1": "Advance Maths",
+        "marks1": "24"
+    },
+    {
+        "name": "Siya",
+        "subject1": "Advance Maths",
+        "marks1": "16"
+    },
+    {
+        "name": "Nishika",
+        "subject1": "Advance Maths",
+        "marks1": "16"
+    },
+    {
+        "name": "Narendra",
+        "subject1": "Advance Maths",
+        "marks1": "21"
+    },
+    {
+        "name": "Gaurav",
+        "subject1": "Advance Maths",
+        "marks1": "20"
+    },
+    {
+        "name": "Tanisha",
+        "subject1": "Advance Maths",
+        "marks1": "19"
+    },
+    {
+        "name": "Anchal",
+        "subject1": "Advance Maths",
+        "marks1": "12"
+    },
+    {
+        "name": "Mitul",
+        "subject1": "Applied Maths",
+        "marks1": "11"
+    },
+    {
+        "name": "Ishpreet",
+        "subject1": "Applied Maths",
+        "marks1": "30"
+    },
+    {
+        "name": "Trishna",
+        "subject1": "Applied Maths",
+        "marks1": "12"
+    }
+]

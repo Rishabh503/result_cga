@@ -1,0 +1,30 @@
+[
+    {
+        "name": "ABINASH KUMAR",
+        "subject1": "Pol Science",
+        "marks1": "24",
+        "subject2": "History",
+        "marks2": "21"
+    },
+    {
+        "name": "VAISHNAVI DAS",
+        "subject1": "Pol Science",
+        "marks1": "23",
+        "subject2": "History",
+        "marks2": "28"
+    },
+    {
+        "name": "MOHNISH KUMAR",
+        "subject1": "Pol Science",
+        "marks1": "16",
+        "subject2": "History",
+        "marks2": "20"
+    },
+    {
+        "name": "PRINCE KUNIYAL",
+        "subject1": "Pol Science",
+        "marks1": "NA",
+        "subject2": "History",
+        "marks2": "14"
+    }
+]
